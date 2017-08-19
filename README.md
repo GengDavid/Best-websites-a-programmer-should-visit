@@ -89,7 +89,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## For those who want to start a small project but can't find the ideas
-- [freeCodeCamp | React project ideas](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fmedium.freecodecamp.org%2Fevery-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d) : 27 fun app ideas you can build while learning React.
+- [freeCodeCamp | React project ideas]( https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11 ) : 27 fun app ideas you can build while learning React.
 - [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
@@ -123,13 +123,13 @@ When learning CS there are some useful sites you must know to get always informe
 - [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
-- [Stuff you need to Code Better!](http://codebetter.com) : Stuff that will help you
 - [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
 - [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
 
 
 ## General Tools
+- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser 
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
@@ -179,9 +179,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [How to interview](http://kelukelu.me/interview/index.html)
 - [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html)
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.com)
+- [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregrate of links related to internships.
 - [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
-- [Java Interview Questions and Answers](https://adnjavainterview.blogspot.com)
+- [Java Interview Questions and Answers](http://www.adnjavainterview.com) : Java Interview Questions and Answers 
 - [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](http://lifehacker.com/tag/job-interviews)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
@@ -283,10 +284,13 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Seminar , research writing , talks etc
-- [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
-- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html)
-- [Practical Tips for Talking at Usergroups and Conferences and Giving presentation on software project to non-programmers](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)
-- [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)
+- [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists). 
+- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
+- [Practical Tips for Talking at Usergroups and Conferences and Giving presentation on software project to non-programmers](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/) : Practical Tips for Talking at Usergroups and Conferences 
+- [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
+- [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference 
+- [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with ease 
+- [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
 
 
 ## Everything in one place
@@ -361,13 +365,16 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Building a Simple Compiler/Interpreter
-- [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
+- [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler) : This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
 - [Awesome Compilers](http://aalhour.com/awesome-compilers/) : Curated list of awesome resources on Compilers, Interpreters and Runtimes.
-- [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
-- [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/)
-- [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
-- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml)
-- [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler)
+- [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html) : Learn how to grow a compiler
+- [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/) : Try to demystify compilers by building one
+- [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/) : Resources for Amateur Compiler Writers
+- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) : Structure and Interpretation
+of Computer Programs
+- [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler) : Write out your first compiler
+- [An Intro to Compilers](https://nicoleorchard.com/blog/compilers) : How to Speak to Computers, Pre-Siri
+
 
 
 ## Tutorials
@@ -410,6 +417,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [W3Schools Online Web Tutorials](https://www.w3schools.com) 
 - [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml) : Unix shell scripting with ksh/bash
 - [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
+- [vim.rtorr](https://vim.rtorr.com/) : Vim Cheat Sheet
+- [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
 
 
 ## Watch others code
@@ -424,20 +433,20 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## Competitive programming
-- [Archived Problems - Project Euler](https://projecteuler.net/archives)
-- [Art of Problem Solving](https://artofproblemsolving.com)
-- [CodeChef](https://www.codechef.com)
+- [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
+- [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
+- [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [Codefights](https://codefights.com) : Test your coding skills
-- [Codeforces](http://codeforces.com)
+- [Codeforces](http://codeforces.com) : Programming Competition,Programming Contest,Online Computer Programming
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codility](https://codility.com) : Verify and improve coding skills
 - [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
-- [HackerRank](https://www.hackerrank.com)
-- [PKU ACM ICPC Practice problems](http://poj.org/problemlist)
-- [Sphere Online Judge (SPOJ)](http://www.spoj.com)
-- [Topcoder](https://www.topcoder.com)
+- [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
+- [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC 
+- [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
+- [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 
@@ -466,6 +475,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
+- [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
+- [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
 
 
 ## Online Compiler and Sharing Code snippets
@@ -476,40 +487,41 @@ When learning CS there are some useful sites you must know to get always informe
 - [JSFiddle](https://jsfiddle.net) : Test your JavaScript, CSS, HTML or CoffeeScript with online code editor
 - [Pastebin.com](https://pastebin.com)
 - [C9.io](https://c9.io) : Your development environment, in the cloud
+- [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 
 
 ## Blogs of Developers
-- [Algo-Geeks](http://algo-geeks.blogspot.com)
-- [Antirez - Redis Creator's blog](http://antirez.com/latest/0)
-- [Antonio081014's Algorithms Codes](http://code.antonio081014.com)
+- [Algo-Geeks](http://algo-geeks.blogspot.com) Programming Puzzles, Math Tricks, Algorithms etc 
+- [Antirez - Redis Creator's blog](http://antirez.com/latest/0) : the blog of Antirez
+- [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
-- [blog.might.net](http://matt.might.net/articles/)
+- [blog.might.net](http://matt.might.net/articles/) the blog of might dot net
 - [Clean Coder Blog](http://blog.cleancoder.com) : blog of author of book "Clean Code"
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
-- [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com)
+- [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com) : A blog about IT, programming and Java
 - [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
-- [CSE Blog - quant, math, computer science puzzles](http://www.cseblog.com)
+- [CSE Blog](http://www.cseblog.com) : quant, math, computer science puzzles
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
-- [Daniel Lemire's Blog](http://lemire.me/blog/)
+- [Daniel Lemire's Blog](http://lemire.me/blog/) : Daniel Lemire's blog
 - [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
-- [Geek Land](https://avidullu.wordpress.com)
-- [HackerEarth Blog](http://blog.hackerearth.com)
-- [IT Enthusiast](http://rodiongork.tumblr.com)
-- [Joel on Software](https://www.joelonsoftware.com)
-- [Late Developer](https://latedev.wordpress.com)
-- [Math ∩ Programming](https://jeremykun.com)
-- [My Tech Interviews](http://www.mytechinterviews.com)
-- [Paul Graham Essays](http://www.paulgraham.com/articles.html)
+- [Geek Land](https://avidullu.wordpress.com) : My precious collectibles
+- [HackerEarth Blog](http://blog.hackerearth.com) : The hackerearth blog 
+- [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
+- [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
+- [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
+- [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
+- [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
+- [Paul Graham Essays](http://www.paulgraham.com/articles.html) : Paul Grahan Essays
 - [Programming Blog](http://www.yegor256.com) : programming blog of Yegor Bugayenko
-- [Programming in the 21st Century](http://prog21.dadgum.com)
+- [Programming in the 21st Century](http://prog21.dadgum.com) : programming in the twenty-first century
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
-- [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com)
-- [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming)
-- [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com)
-- [stevehanov.ca](http://stevehanov.ca/blog/)
+- [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon and Microsoft
+- [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
+- [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com) : Software Development, Architecture and Technical Leadership for the Enterprise
+- [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
 - [XDA - Android Developer Forum](https://forum.xda-developers.com) : Android Open Source Developers Forum
@@ -539,6 +551,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [TED](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
+- [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 
 
   **Maintained with :heart: by sdmg15 & al**
