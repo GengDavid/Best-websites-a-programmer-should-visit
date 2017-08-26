@@ -11,6 +11,8 @@ Some useful websites for programmers.
 
 When learning CS there are some useful sites you must know to get always informed in order to do your technologies eve and learn new things. Here is a non exhaustive list of some sites you should visit, this list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
+__Note__ : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+	
 <h3>Index</h3>
 <ul>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
@@ -53,7 +55,8 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## News
-- [ACM TechNews](http://technews.acm.org) : TechNews 
+- [ACM TechNews](http://technews.acm.org) : TechNews
+- [Stratechery](https://stratechery.com/) : Stratechery by Ben Thompson 
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
@@ -89,7 +92,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## For those who want to start a small project but can't find the ideas
-- [freeCodeCamp | React project ideas]( https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11 ) : 27 fun app ideas you can build while learning React.
+- [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
 - [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
 - [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
 - [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
@@ -130,7 +133,6 @@ When learning CS there are some useful sites you must know to get always informe
 
 
 ## General Tools
-- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser 
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
@@ -370,8 +372,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html) : Learn how to grow a compiler
 - [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/) : Try to demystify compilers by building one
 - [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/) : Resources for Amateur Compiler Writers
-- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) : Structure and Interpretation
-of Computer Programs
+- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) : Structure and Interpretation of Computer Programs
 - [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler) : Write out your first compiler
 - [An Intro to Compilers](https://nicoleorchard.com/blog/compilers) : How to Speak to Computers, Pre-Siri
 
@@ -411,7 +412,7 @@ of Computer Programs
 - [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 - [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-- [Tutorialspoint](http://www.tutorialspoint.com)
+- [Tutorialspoint](https://www.tutorialspoint.com/) : Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
 - [W3Schools Online Web Tutorials](https://www.w3schools.com) 
@@ -491,12 +492,12 @@ of Computer Programs
 
 
 ## Blogs of Developers
-- [Algo-Geeks](http://algo-geeks.blogspot.com) Programming Puzzles, Math Tricks, Algorithms etc 
+- [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms etc 
 - [Antirez - Redis Creator's blog](http://antirez.com/latest/0) : the blog of Antirez
 - [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
-- [blog.might.net](http://matt.might.net/articles/) the blog of might dot net
+- [blog.might.net](http://matt.might.net/articles/) : the blog of might dot net
 - [Clean Coder Blog](http://blog.cleancoder.com) : blog of author of book "Clean Code"
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
@@ -553,5 +554,6 @@ of Computer Programs
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 
-
-  **Maintained with :heart: by sdmg15 & al**
+### Special Thanks ###
+- Please consider a github star if you find this useful and/or consider making a contribution.
+- A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
