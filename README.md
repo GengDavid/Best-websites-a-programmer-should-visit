@@ -11,7 +11,7 @@ Some useful websites for programmers.
 
 When learning CS there are some useful sites you must know to get always informed in order to do your technologies eve and learn new things. Here is a non exhaustive list of some sites you should visit, this list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
-__Note__ : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+**Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 	
 <h3>Index</h3>
 <ul>
@@ -498,6 +498,7 @@ __Note__ : [Chinese Version](https://github.com/tuteng/Best-websites-a-programme
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
 - [blog.might.net](http://matt.might.net/articles/) : the blog of might dot net
+- [Brendon Gregg - Linux Kernel Dev](http://www.brendangregg.com/) : the blog of Brendon D. Gregg
 - [Clean Coder Blog](http://blog.cleancoder.com) : blog of author of book "Clean Code"
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
