@@ -17,6 +17,7 @@ When learning CS there are some useful sites you must know to get always informe
 <ul>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
+<li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
@@ -56,7 +57,7 @@ When learning CS there are some useful sites you must know to get always informe
 
 ## News
 - [ACM TechNews](http://technews.acm.org) : TechNews
-- [Stratechery](https://stratechery.com/) : Stratechery by Ben Thompson 
+- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson 
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : posts unique quality articles
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
@@ -72,6 +73,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [XDA](https://www.xda-developers.com) : Android Developers News
+
+## Magazines
+- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine
+- [Nautilus](http://nautil.us) : NewYorker for tech.
 
 
 ## Coding practice for beginners
@@ -282,7 +287,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : Unsupervised Sentiment Neuron 
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
-- [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy 
+- [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy
+- [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of coursera
 
 
 ## Seminar , research writing , talks etc
@@ -375,6 +381,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) : Structure and Interpretation of Computer Programs
 - [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler) : Write out your first compiler
 - [An Intro to Compilers](https://nicoleorchard.com/blog/compilers) : How to Speak to Computers, Pre-Siri
+- [Write your own compiler](http://staff.polito.it/silvano.rivoira/HowToWriteYourOwnCompiler.htm) : How to write your own compiler
 
 
 
@@ -412,7 +419,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
 - [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 - [TopCoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-- [Tutorialspoint](https://www.tutorialspoint.com/) : Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions
+- [Tutorialspoint](https://www.tutorialspoint.com) : Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions
 - [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
 - [VimTutor+](https://vimtutorplus.herokuapp.com/exercise/1) : Learn VIM from the browser.
 - [W3Schools Online Web Tutorials](https://www.w3schools.com) 
@@ -420,6 +427,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Snap SVG](http://snapsvg.io) : The JavaScript SVG library for the modern web
 - [vim.rtorr](https://vim.rtorr.com) : Vim Cheat Sheet
 - [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
+- [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
 
 
 ## Watch others code
@@ -498,7 +506,7 @@ When learning CS there are some useful sites you must know to get always informe
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
 - [blog.might.net](http://matt.might.net/articles/) : the blog of might dot net
-- [Brendon Gregg - Linux Kernel Dev](http://www.brendangregg.com/) : the blog of Brendon D. Gregg
+- [Brendon Gregg - Linux Kernel Dev](http://www.brendangregg.com) : the blog of Brendon D. Gregg
 - [Clean Coder Blog](http://blog.cleancoder.com) : blog of author of book "Clean Code"
 - [CodeAhoy](https://codeahoy.com) : Blog on software and human factors. 100% Tested on Humans.
 - [CoderGears Blog Insights from](http://www.codergears.com/Blog/) : the CoderGears Team
@@ -555,6 +563,6 @@ When learning CS there are some useful sites you must know to get always informe
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 
-### Special Thanks ###
+### Special Thanks
 - Please consider a github star if you find this useful and/or consider making a contribution.
 - A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
