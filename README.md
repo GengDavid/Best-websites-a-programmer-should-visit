@@ -19,6 +19,7 @@ When learning CS there are some useful sites you must know to get always informe
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
+<li><a href="#cryptocurrency">Cryptocurrency</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
 <li><a href="#general-coding-advice">General Coding advice</a></li>
 <li><a href="#coding-style">Coding Style</a></li>
@@ -100,6 +101,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
 - [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
 - [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
+
+## CryptoCurrency 
 
 
 ## For those who want to start a small project but can't find the ideas
@@ -295,6 +298,8 @@ When learning CS there are some useful sites you must know to get always informe
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
 - [Scikit-learn](http://scikit-learn.org) : A Python module for machine learning build on top of SciPy
 - [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of coursera
+- [Coding the History of Deep Learning](http://blog.floydhub.com/coding-the-history-of-deep-learning/) : Coding the History of Deep Learning
+- [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA 
 
 
 ## Seminar , research writing , talks etc
@@ -354,9 +359,10 @@ When learning CS there are some useful sites you must know to get always informe
 - [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
-- [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
+- [What every programmer should know about memory - PDF ](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
 - [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) : Why App Speed Matters, Revenue 
-
+- [qotoqot - improving-focus](https://qotoqot.com/blog/improving-focus/) : How I got to 200 productive hours a month
+- [Pixel Beat - Unix](http://www.pixelbeat.org/docs/unix-parallel-tools.html) : Parallel processing with unix tools
 
 ## Podcasts
 - [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
