@@ -68,6 +68,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
 - [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
+- [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
 - [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
 - [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
@@ -157,6 +158,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Wit AI](https://wit.ai) : Natural Language for Developers
+- [Seymour](https://harc.github.io/seymour-live2017/) : Live Programming for the Classroom
+- [Code share](https://codeshare.io/) : Share code in real-time with other developers
 
 ## Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
@@ -303,6 +306,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [DeepLearning.ai](https://www.deeplearning.ai) : Deep Learning course by Andrew Ng, Founder of coursera
 - [Coding the History of Deep Learning](http://blog.floydhub.com/coding-the-history-of-deep-learning/) : Coding the History of Deep Learning
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA 
+- [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 
 
 ## Seminar , research writing , talks etc
@@ -319,7 +323,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : a multisubreddit of all subreddits of topics related to computer science and programming.
 - [Websites a programmer should isit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 - [Moocha](https://www.moocha.io) : Search online courses from edX, Coursera, Udacity, & more
-- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets 
+- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
+- [API Documentation](http://devdocs.io/) : A one-place well known API Documentation with searchable interface
 
 
 ## YouTube Channels
@@ -447,6 +452,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Open Vim](http://www.openvim.com/tutorial.html) :  Interactive Vim tutorials
 - [Algorithm Using Dynamic Programming and A](http://thume.ca/2017/06/17/tree-diffing/) : Designing a Tree Diff Algorithm Using Dynamic Programming and A*
 - [Learn Python](https://www.learnpython.org) : Free Interactive Python Tutorial
+- [C++17](https://www.viva64.com/en/b/0533/) : A guide of C++17
 
 ## Watch others code
 - [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, etc.
