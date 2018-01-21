@@ -47,6 +47,8 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#for-improving-your-english">For improving your English</a></li>
 <li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
 <li><a href="#open-source-websites">Open Source Websites</a></li>
+<li><a href="#internships">Internships</a></li>
+<li><a href="#jobs">Jobs</a></li>
 </ul>
 
 ## When you get stuck
@@ -119,7 +121,6 @@ When learning CS, there are some useful sites you must know to get always inform
 ## General Coding advice
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
-- [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/) : Stephen Haunts { Coding in the Trenches }
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
 - [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer, or the art of Googling well
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
@@ -193,7 +194,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Freshers Interviews](http://placementsindia.blogspot.com)
 - [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
-- [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
 - [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
 - [Guide to Tech Interviews](https://www.kchodorow.com/blog/2013/02/28/guide-to-tech-interviews/)
@@ -221,7 +221,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
 - [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
 - [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) : Algorithms for Coding Interview
-- [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet)
+- [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 - [Unsolicited_advice_for_job_seekers_and_employers](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
 - [Visualising Data Structures and Algorithms through Animation](https://visualgo.net/en)
 - [We Help Coders Get Hired](https://www.hiredintech.com/app) : website offering courses on system design, interview strategies, soft skills etc
@@ -262,7 +262,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MIT OCW Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [MOOC.fi](http://mooc.fi/english.html) : Free online courses from the University of Helsinki
 - [NPTEL](http://nptel.ac.in) : Free online courses by IIT with certificates
-- [NPTEL Vidoes COMP_SCI_ENGG](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG) : National Programme on Technology Enhanced Learning
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 
 
@@ -313,7 +312,6 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Seminar , research writing , talks etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
 - [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
-- [Practical Tips for Talking at Usergroups and Conferences and Giving presentation on software project to non-programmers](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/) : Practical Tips for Talking at Usergroups and Conferences
 - [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
 - [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference
 - [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with ease
@@ -459,6 +457,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [C++17](https://www.viva64.com/en/b/0533/) : A guide of C++17
 - [The Bash Academy](http://www.bash.academy) : The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
 - [Learn Shell Programming](http://learnshell.org) : This website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.
+- [Java tutorial](https://hackr.io/tutorials/learn-java) : A programming community & a great place to find the best online programming courses and tutorials.
 
 ## Watch others code
 - [LiveEdu.tv](https://www.liveedu.tv) : screencast of people building application, websites, games, etc.
@@ -472,7 +471,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 ## Competitive programming
-- [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem 
+- [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
@@ -488,6 +487,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
 - [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 
@@ -536,7 +536,6 @@ When learning CS, there are some useful sites you must know to get always inform
 ## Blogs of Developers
 - [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms etc
 - [Andy Heathershaw](https://www.andyheathershaw.uk) : Personal website and blog of software developer Andy Heathershaw
-- [Antirez - Redis Creator's blog](http://antirez.com/latest/0) : the blog of Antirez
 - [Antonio081014's Algorithms Codes](http://code.antonio081014.com) : The world is under the RULE.  
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
@@ -566,7 +565,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon and Microsoft
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
-- [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com) : Software Development, Architecture and Technical Leadership for the Enterprise
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
@@ -595,7 +593,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [SmarterEveryDay](https://www.youtube.com/user/destinws2/videos) : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera
 - [TED](https://www.youtube.com/user/TEDtalksDirector/videos) : Great talks about technology, entertainment, and design
 - [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : Interesting information about news from around the world
-- [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity 
+- [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : The secret of longevity
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : The best youtube channel
 - [Ox A cuk](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#) : How to live a happy life
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
@@ -620,6 +618,26 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Up for Grabs](http://up-for-grabs.net) : This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.
 - [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
+
+## Internships
+
+- [Internshala](https://internshala.com) : You can search internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
+- [Chegg](http://www.chegg.com) : It is an awesome resource for finding internships, scholarships, tutors, etc.
+- [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern. 
+
+## Jobs
+
+- [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
+- [The Muse](https://www.themuse.com) : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.
+- [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
+  filtering and finding new and attractive jobs according to your needs and
+  interests.
+- [Indeed](https://www.indeed.com) : Find internation jobs on Indeed and get a market salary for your dedication and devotion.
+- [Glassdoor](https://www.glassdoor.co.in) : Find the job that's right for you. Search all the open positions on the web. Get your own personalized salary estimate. 
+- [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
+- [CareerBuilder](https://hiring.careerbuilder.com) : CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.
+- [Dice](https://www.dice.com) : Dice is the leading site for tech job seekers. You can search by company, job title, keyword, employment type, and location.
+ 
 
 
 ### Special Thanks
